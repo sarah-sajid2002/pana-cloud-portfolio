@@ -1,0 +1,203 @@
+
+.body{
+    background-color: #eee1d8;
+}
+p{
+    font-size: 25px;
+}
+.left{
+    border: 3mm ridge #F6DDCC;
+    width: 48%;
+    display: inline-block;
+    height: 235vh;
+}
+.left ul a{
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.nav-item  a{
+    font-size: 10px;
+    
+}  
+.cloud{
+    display: inline-block;
+    color: rgb(64, 100, 9);
+}
+.pana{
+    color: green;
+    font-size: 3rem;
+    /* font-weight: 400px; */
+    font-family: 'Gulzar', serif;
+}
+.our-advantage h3{
+    font-size: 4rem;
+    margin: 30px;
+}
+.our-advantage{
+    text-align: center; 
+}
+.adv{
+    color: green;
+}
+
+.container .flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.container .flex figcaption{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container .flex figcaption br{
+    margin-top: 30px;
+ }
+.container .flex img{
+    width: 100px;
+    height: 100px;
+}
+.about-us{
+
+    background-image:url("../images/skin\ background.jpg") ;
+}
+.about{
+    text-align: center;
+    margin: 20px;
+    font-size: 4rem;
+    margin: 30px;
+}
+
+.about span{
+    color: green;
+}
+
+.butn{
+
+    margin-left: 150px;
+    width: 200px;
+    margin-bottom: 50px;
+}
+.content{
+    font-size: 1.5rem;
+}
+.content-img{
+    width: 350px;
+height: 407px;
+}
+.our-services{
+    text-align: center;
+    margin: 50px 0px 10px 20px ;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 92%;
+    height: 4560x;
+    
+}
+.our-services h2{
+    font-size: 4rem;
+    margin: 30px;
+}
+.our-services span{
+    color: green;
+
+}
+.our-services .flex{
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+.our-services .flex h3{
+    margin: 20px;
+
+}
+.our-services .flex p{
+    text-align: left;
+    font-size: 19px;
+}
+.box1{
+    margin: 5px;
+  width: 400px;
+  height: 435px;
+  border-top:3px solid black ;
+ border-left: 3px dashed black;
+ border-right: 3px dashed black;
+ border-radius: 18px;
+   
+}
+.right{
+   
+    display: inline-block;
+    width: 49%;
+    border: 3mm ridge #F6DDCC;
+    height: 235vh;
+    margin-right: 40px;
+}
+.our-skills h3{
+    font-size: 4rem;
+    margin: 30px;
+   
+}
+.our-skills{
+    text-align: center; 
+    background-image: url("../images/light\ skin\ background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+}
+.container-1 .flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.container-1 .flex figcaption{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+ }
+.container-1 .flex figcaption br{
+     margin-top: 30px;
+  }
+.container-1 .flex img{
+     width: 200px;
+     height: 200px;
+ }
+ .new-project{
+ 
+    margin-left: auto;
+    background-color: rgb(41, 117, 41);
+    width: 99%;
+    height: 350px;
+ }
+ .new-project h1{
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 30px;
+    color: white;
+ }
+ .new-project p{
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+ }
+.new-project input , .btn{
+    width: 150px;
+    height: 50px;
+    margin: 0px 10px 10px 10px;
+    font-size: 20px;
+}
+.our-contacts h3{
+    font-size: 4rem;
+    margin: 30px;
+    text-align: center; 
+}
+.our-contatcs p{
+    text-align: center;
+}
+.footer{
+    background-color: rgb(41, 117, 41);
+    height: 470px;
+    width: 98%;
+    margin: auto;
+}
